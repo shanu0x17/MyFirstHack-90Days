@@ -3,7 +3,7 @@
 
 ## Key Learnings
 
-#Attacks
+##Attacks
 - Credential stuffing: Attacker downloads databse of username and password. Log into Amazon with the LinkedIn password. Log into your bank with the Adobe password. It works because people reuse passwords.
 - Phishing: Convincing links and gets the password as user enter.
 - Dictionary attacks: The attacker uses a list of the most common passwords and predictable variations
